@@ -1,4 +1,4 @@
-package kong.qingwei.androidsoundmanagerdemo;
+package com.hypech.audiotrack;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;

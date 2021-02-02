@@ -1,4 +1,4 @@
-package kong.qingwei.androidsoundmanagerdemo;
+package com.hypech.audiotrack;
 
 import android.app.Activity;
 import android.media.AudioFormat;
