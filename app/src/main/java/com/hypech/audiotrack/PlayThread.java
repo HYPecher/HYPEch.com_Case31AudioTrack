@@ -17,7 +17,8 @@ import java.io.InputStream;
 public class PlayThread extends Thread {
 
     // 采样率
-    private int mSampleRateInHz = 16000;
+    //sv private int mSampleRateInHz = 16000;
+    private int mSampleRateInHz = 44100;
     // 单声道
     private int mChannelConfig = AudioFormat.CHANNEL_OUT_MONO;
     // 双声道（立体声）
